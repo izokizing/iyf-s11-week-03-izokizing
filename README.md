@@ -15,14 +15,14 @@
 -Git & GitHub
 ## project structure
  \'\'\'
-    iyf-s11-week-03-izokizing
-    |------ index.html
-    |------about.html
-    |------project.html
-    |------contact.html
-    |------ css
-    |      |------ style.css
-    |------ images/ 
+   - iyf-s11-week-03-izokizing
+   - |------ index.html
+   - |------about.html
+   -|------project.html
+   - |------contact.html
+   -|------ css
+   - |      |------ style.css
+   -|------ images/ 
     \'\'\'
 ## what i learned
 -How to structure a basic HTML page
